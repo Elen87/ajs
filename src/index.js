@@ -5,9 +5,10 @@ function info() {
   return m;
 }
 
-module.exports = {
+exports.default = {
   info
 }
+
 
 
 
